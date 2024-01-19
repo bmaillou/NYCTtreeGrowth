@@ -1,7 +1,9 @@
 # NYCTtreeGrowth
 Analysis of NYC Tree Census data to determine growth rates.   This site will provide the data and python scripts used in the analysis to calculate tree growth rates.  Scripts
-1. Combine NYC raw data into one Database:  This script takes the NYC 2005 and NYC 2015 Tree census data and combines them into one data base aligned by postal code, address, species.  It then exports the combined file to excel.  
-2. 
+1. Combine NYC raw data into one Database:  This script takes the NYC 2005 and NYC 2015 Tree census data and combines them into one data base aligned by postal code, address, species.  It then exports the combined file to excel. 
+2. Clean_all_growth_data: This takes the combined database and then cleans the data. It does some basic descriptive statistics and exports the cleaned database for further analysis.
+3. Figure1_and_2_Growth_Plots
+4. Forest_Plot_statistics
 
 
 I am not sure how I made that image!
