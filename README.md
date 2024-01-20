@@ -46,11 +46,11 @@ Analysis of NYC Tree Census data to determine growth rates.   This site will pro
         1. None
     1. Output Data
         1. None
-9. Forest_Plot_statistics: Uses the cleaned NYC growth database with the additional data to do the statistical analyses
+9. Forest_Plot_statistics: Uses the cleaned NYC growth database with the additional data to do the statistical analyses. It outputs the fitted data for the maps.
     1. Input files
         1. tree_census_join_20210613.xlsx
     1. Output Files
-        1. None
+        1. fitted_growth_rates.xlsx
     1. Output Figures
         1. Figure 4
         2. Figure 5
