@@ -1,5 +1,5 @@
 # NYCTtreeGrowth
-Analysis of NYC Tree Census data to determine growth rates.   This site will provide the data and python scripts used in the analysis to calculate tree growth rates. Below I list each script and the data sets used.  The ARCgis methods to add data not in the NYC tree census is not included.   
+Analysis of NYC Tree Census data to determine growth rates.   This site will provide the data and python scripts used in the analysis to calculate tree growth rates. Below I list each script and the data sets used.  The ARCgis methods to add data are not provided as they were performed in ARCgis however the data is included.  All input and output files are noted.  An older version of Python is used in srcipt 6 such that it worked with basemap.     
 
 ## Python Notebooks/Scripts
 1. 1-Combine NYC raw data into one Database:  This script takes the NYC 2005 and NYC 2015 Tree census data and combines them into one data base aligned by postal code, address, species.  It then exports the combined file to excel.
